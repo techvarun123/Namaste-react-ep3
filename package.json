@@ -1,0 +1,27 @@
+{
+  "name": "lol",
+  "version": "1.0.0",
+  "description": "namaste react",
+  
+  "scripts": {
+    "test": "test",
+    "dev": "parcel index.html",
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techvarun123/Namaste-react-ep3.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "varun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/techvarun123/Namaste-react-ep3/issues"
+  },
+  "homepage": "https://github.com/techvarun123/Namaste-react-ep3#readme",
+  "devDependencies": {
+    "parcel": "^2.16.1"
+  }
+}
